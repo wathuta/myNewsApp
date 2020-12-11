@@ -1,0 +1,1 @@
+this is an app that enables user to search for news using key words.
